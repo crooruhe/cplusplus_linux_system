@@ -1,4 +1,3 @@
-// ruhe wk 7 linuxsys
 #include <iostream>
 #include <fstream>
 #include <string>
@@ -42,11 +41,11 @@ double e = 2.0;
 int i,j; 
 
 for (i = 0; i < 5; i++) { 
-        
+Â Â Â Â Â Â Â  
 	for (j = 0; j < 400000; j++){
 		y = pow(x, e);} 
- 
-   printf("Loop %d of work cycle\n", i ); 
+Â 
+Â Â  printf("Loop %d of work cycle\n", i ); 
 sleep(1);
 }
 stattracker = 0;

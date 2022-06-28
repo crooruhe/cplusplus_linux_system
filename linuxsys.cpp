@@ -1,4 +1,3 @@
-// ruhe wk 6 linuxsys
 #include <iostream>
 #include <fstream>
 #include <string>
@@ -77,11 +76,6 @@ if(myfile3.is_open())
   }
 
   else cout << "Unable to open file";
-
-
-
-
-
 
   return 0;
 }
